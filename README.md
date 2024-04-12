@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Desarrolladora Frontend.<br>🔭Apasionada por aprender.<br>🚀Actualmente estudiando C#.Net.<br> 🚀Cursando la tecnicatura Universitaria en Programacion en Universidad Tecnologica Nacional (UTN FRSR) PYTHON-JAVA-JAVASCRIPT<br>🔭Enamorada del mundo IT.<br><br>
+🚀Desarrolladora Frontend.<br>🔭Apasionada por aprender.<br>🚀Actualmente estudiando C#.Net.<br> 🚀Cursando la Tecnicatura Universitaria en Programacion en Universidad Tecnologica Nacional (UTN FRSR) PYTHON-JAVA-JAVASCRIPT<br>🔭Enamorada del mundo IT.<br><br>
 
 
 ## 🌐 Socials:
