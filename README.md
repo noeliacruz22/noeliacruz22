@@ -1,12 +1,50 @@
-# 💫 About Me:
-🚀Desarrolladora Frontend.<br>🔭Apasionada por aprender.<br>🚀Actualmente estudiando C#.Net.<br> 🚀Cursando la Tecnicatura Universitaria en Programacion en Universidad Tecnologica Nacional (UTN FRSR) PYTHON-JAVA-JAVASCRIPT<br>🔭Enamorada del mundo IT.<br><br>
+# 👋 ¡Hola! Soy Noelia
 
+💻 Desarrolladora en formación con enfoque backend | Java · Spring Boot · C# .NET  
+🎯 Apasionada por aprender, crear y conectar tecnología con propósito humano.  
+📚 Estudiante de la Tecnicatura Universitaria en Programación (UTN FRSX)  
+🌱 Explorando el mundo IT con curiosidad, resiliencia y visión de futuro.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/china.2.2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelia-cruz/) 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+## 🧰 Tech Stack
+
+**Backend:**  
+Java · Spring Boot · C# .NET · SQL · PostgreSQL · APIs REST
+
+**Frontend:**  
+HTML5 · CSS3 · JavaScript · Bootstrap · SASS
+
+**Herramientas:**  
+Git · GitHub · Canva · Trello
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [Formulario_Dark](https://github.com/noeliacruz22/Formulario_Dark) | Formulario con diseño oscuro, validación de campos y estructura adaptable. Ideal para prácticas de UI y lógica básica. | HTML · CSS · JavaScript |
+| [CryptoBase](https://github.com/noeliacruz22/CryptoBase) | Aplicación que muestra cotizaciones de criptomonedas en tiempo real, con consumo de API externa. | JavaScript · API REST · CSS |
+
+---
+
+## 🌐 Comunidad y contenido
+
+Lidero una comunidad digital enfocada en educación inmobiliaria, participación auténtica y empoderamiento del cliente.  
+Diseño campañas multicanal, recursos visuales y guías útiles que integran tecnología, creatividad y propósito.
+
+📸 Podés ver parte de mi trabajo como creadora de contenido en [Instagram: JD Negocios Inmobiliarios](https://www.instagram.com/jd.negociosinmobiliarios)
+
+---
+
+## 📫 Contacto
+
+Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/noelia-cruz/) o escribirme para compartir ideas, proyectos o simplemente conectar.
+
+---
+
+> *“La tecnología no solo resuelve problemas: también puede crear vínculos, oportunidades y nuevas formas de habitar el mundo.”*
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliacruz22&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
