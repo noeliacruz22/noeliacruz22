@@ -2,7 +2,7 @@
 
 💻 Desarrolladora en formación con enfoque backend | Java · Spring Boot · C# .NET  
 🎯 Apasionada por aprender, crear y conectar tecnología con propósito humano.  
-📚 Estudiante de la Tecnicatura Universitaria en Programación (UTN FRSX)  
+📚 Estudiante de la Tecnicatura Universitaria en Programación (UTN FRSR)  
 🌱 Explorando el mundo IT con curiosidad, resiliencia y visión de futuro.
 
 ---
@@ -39,7 +39,7 @@ Diseño campañas multicanal, recursos visuales y guías útiles que integran te
 
 ## 📫 Contacto
 
-Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/noelia-cruz/) o escribirme para compartir ideas, proyectos o simplemente conectar.
+Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/noelia-cruz/) y escribirme para compartir ideas, proyectos o simplemente conectar.
 
 ---
 
