@@ -24,8 +24,7 @@ Git · GitHub · Canva · Trello
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [Formulario_Dark](https://github.com/noeliacruz22/Formulario_Dark) | Formulario con diseño oscuro, validación de campos y estructura adaptable. Ideal para prácticas de UI y lógica básica. | HTML · CSS · JavaScript |
-| [CryptoBase](https://github.com/noeliacruz22/CryptoBase) | Aplicación que muestra cotizaciones de criptomonedas en tiempo real, con consumo de API externa. | JavaScript · API REST · CSS |
+| [Formulario_Dark](https://github.com/noeliacruz22/Formulario_Dark) | Formulario con diseño oscuro, validación de campos y estructura adaptable. Ideal para prácticas de UI y lógica básica. | HTML · CSS |
 
 ---
 
@@ -45,6 +44,8 @@ Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/noelia-cruz/) o esc
 ---
 
 > *“La tecnología no solo resuelve problemas: también puede crear vínculos, oportunidades y nuevas formas de habitar el mundo.”*
+
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliacruz22&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
