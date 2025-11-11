@@ -25,6 +25,8 @@ Git · GitHub · Canva · Trello
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | [Formulario_Dark](https://github.com/noeliacruz22/Formulario_Dark) | Formulario con diseño oscuro, validación de campos y estructura adaptable. Ideal para prácticas de UI y lógica básica. | HTML · CSS |
+|---------|-------------|-------------|
+|  [Tecnicatura_UTN](https://github.com/noeliacruz22/Tecnicatura_UTN) | Repositorio académico, donde documenté mi recorrido completo por la carrera. | Python . Java . Javascript |
 
 ---
 
